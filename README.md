@@ -1,6 +1,6 @@
 # Karinne's Unit Conversion
 
-This is Karenne's fork of the unit conversion project!
+This is Karinne's fork of the unit conversion project!
 
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
