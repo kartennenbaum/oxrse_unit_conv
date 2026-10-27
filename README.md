@@ -1,4 +1,6 @@
-# Oxford RSE Unit Conversion
+# Karinne's Unit Conversion
+
+This is Karinne's fork of the unit conversion project!
 
 [![Unittest](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml/badge.svg)](https://github.com/OxfordRSE/oxrse_unit_conv/actions/workflows/unittest.yml)
 
